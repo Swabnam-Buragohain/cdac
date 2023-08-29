@@ -1,0 +1,18 @@
+img{
+  position: fixed;
+  border-radius: 8px;
+  top:20ch;
+  left:1ch
+}
+
+h3{
+  position: fixed;
+  left: 20ch;
+  top:11ch;
+}
+
+p{
+   position:fixed;
+   left: 35ch;
+   top:25ch;
+}
